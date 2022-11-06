@@ -7,7 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>hello!!</h1>
+    <h1>hello!</h1>
     <a href="{{ route('users.create') }}">create</a>
 </body>
 </html>
